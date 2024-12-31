@@ -1,8 +1,29 @@
-
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .container {
     max-width: 1440px;  
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    padding: 50px;
+    margin: 0 auto;    
+}
+
+.container .sobre-mathbook {
+    width: 500px;
+    padding: 20px;
+}
+
+.container .sobre-mathbook h1 {
+    font-size: 50px;
+    color: #0866ff;
+    font-weight: 700;    
+}
+
+.container .sobre-mathbook p {
+    font-size: 24px;
+    font-weight: 500;
+    width: auto;
 }
