@@ -2,11 +2,12 @@
     .container {
         flex-direction: column;
         justify-content: start;
-        padding: 20px;
+        padding: 5px 0 20px;
+        margin: auto 0;
     }
 
     .container .sobre-mathbook {
-        width: auto;
+        width: auto;        
     }
 
     .container .login .container-login button {
