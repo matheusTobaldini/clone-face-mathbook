@@ -1,7 +1,6 @@
 @media (max-width:850px) {
     .container {
-        flex-direction: column;
-        justify-content: start;
+        flex-direction: column;        
         padding: 5px 0 20px;
         margin: auto 0;
     }
