@@ -9,8 +9,7 @@ html {
     align-items: center;
     height: 100vh;
     padding: 50px;
-    margin: 0 auto;  
-      
+    margin: 0 auto;
 }
 
 .container .sobre-mathbook {
@@ -21,7 +20,8 @@ html {
 .container .sobre-mathbook h1 {
     font-size: 50px;
     color: #0866ff;
-    font-weight: 700;    
+    font-weight: 700; 
+    text-align: center;   
 }
 
 .container .sobre-mathbook p {
