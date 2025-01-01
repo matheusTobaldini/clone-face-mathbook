@@ -6,7 +6,8 @@
     }
 
     .container .sobre-mathbook {
-        width: auto;        
+        width: auto;    
+        text-align: center;    
     }
 
     .container .login .container-login button {
