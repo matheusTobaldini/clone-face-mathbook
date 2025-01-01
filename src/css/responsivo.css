@@ -1,6 +1,7 @@
 @media (max-width:850px) {
     .container {
         flex-direction: column;
+        height: 800px;
     }
 
     .container .sobre-mathbook {
